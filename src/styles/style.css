@@ -1,0 +1,30 @@
+.TopCont {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgb(139, 133, 133) 100%);
+}
+
+.subContainer {
+    display: flex;
+    justify-content: space-around;
+}
+.shadowInput {
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1) !important;
+    border: none;
+}
+.Lecafe {
+    display: flex;
+    margin-top: 270px;
+}
+.Lecafe img {
+    width: 120px;
+    height: 90px;
+    border-radius: 10px;
+    border: 1px solid whitesmoke;
+}
+.LecafeText {
+    margin-left: 10px;
+}
+.Timing {
+    height: 50px;
+    background-color: #fff;
+    margin-top: 290px;
+}
